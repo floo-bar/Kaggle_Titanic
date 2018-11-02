@@ -1,2 +1,2 @@
 # Kaggle_Titanic
-My attempt at the Titanic problem
+My attempt at the Kaggle Titanic problem
